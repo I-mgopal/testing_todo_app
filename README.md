@@ -11,6 +11,7 @@ A simple full-stack To-Do List app that allows users to add, view, and delete ta
 - Frontend communicates with backend using Fetch API
 - CORS enabled for frontend-backend interaction
 
+
 ## 3. Technologies Used
 - **Frontend:** HTML, CSS, JavaScript (Fetch API)
 - **Backend:** Python, FastAPI, Pydantic
@@ -18,11 +19,14 @@ A simple full-stack To-Do List app that allows users to add, view, and delete ta
 - **Server:** Uvicorn
 - **Tools:** Python virtual environment (venv)
 
+
 ## 4. Setup Instructions
 
 ### Backend
 
 1. Create and activate a virtual environment:
+
+##Setup
 
 ```powershell
 python -m venv venv
