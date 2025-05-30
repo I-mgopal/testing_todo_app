@@ -26,6 +26,8 @@ A simple full-stack To-Do List app that allows users to add, view, and delete ta
 
 1. Create and activate a virtual environment:
 2. Then run those command
+
+
 ##Setup
 
 ```powershell
