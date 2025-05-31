@@ -13,11 +13,11 @@ A simple full-stack To-Do List app that allows users to add, view, and delete ta
 
 
 ## 3. Technologies Used
-- **Frontend:** HTML, CSS, JavaScript (Fetch API)
-- **Backend:** Python, FastAPI, Pydantic
-- **Testing:** Pytest, HTTPX
-- **Server:** Uvicorn
-- **Tools:** Python virtual environment (venv)
+- **Frontend:** HTML, CSS, JavaScript (Fetch API).
+- **Backend:** Python, FastAPI, Pydantic.
+- **Testing:** Pytest, HTTPX.
+- **Server:** Uvicorn.
+- **Tools:** Python virtual environment (venv).
 
 
 ## 4. Setup Instructions
